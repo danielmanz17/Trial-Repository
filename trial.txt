@@ -3,3 +3,7 @@ This is a trial text file to see how it is added to the repository.
 idiot
 translucent
 Prince Myshkin
+
+ghost
+melodrama
+impropabilites
